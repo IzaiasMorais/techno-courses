@@ -2,7 +2,10 @@
    🖥 Techno Courses
 </h1>
 
-<p align="center">Um e-commerce completo</p>
+<p align="center">Um simples site para assistir aulas online</p>
+
+https://user-images.githubusercontent.com/53953937/178065633-0e98d2c0-30d8-4b0e-af40-c5888fc23aae.mp4
+
 
 ## 📃 About the project
 
